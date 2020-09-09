@@ -1,24 +1,10 @@
-# README
+# DMM WEBCAMP コンテンツ【アプリケーションを完成させよう2】
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+DMM WEBCAMP の学習コンテンツ アプリケーションを完成させよう2 8章【CSSフレームワークBootstrapを使おう】の演習です。
 
-Things you may want to cover:
 
-* Ruby version
+## 演習開始時刻
+2020/9/9 16:18
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 演習完了時刻
+2020/9/9 16:36
